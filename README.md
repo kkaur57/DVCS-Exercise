@@ -20,7 +20,7 @@ Short Answer & Multiple Choice
 6. 3.A code repository that is not on your local computer
 7 Ans. 1.A code repository that is on your local computer
 8Ans. 3.Origin
-9. - 2.Cloning
+9Ans 2.Cloning
 10. - 1.push, fetch, pull
 11. - 1.git fetch and then git merge
 12. - 4.git init
