@@ -18,7 +18,7 @@ Short Answer & Multiple Choice
 4. Fulscreen, Zoomed In, Zoomed out and Default
 5. Remote repository, Ignored Files
 6. 3.A code repository that is not on your local computer
-7. - 1.A code repository that is on your local computer
+7 Ans. 1.A code repository that is on your local computer
 8. - 3.Origin
 9. - 2.Cloning
 10. - 1.push, fetch, pull
