@@ -17,7 +17,7 @@ Short Answer & Multiple Choice
 3. Respository
 4. Fulscreen, Zoomed In, Zoomed out and Default
 5. Remote repository, Ignored Files
-6. 3.A code repository that is not on your local computer
+6Ans. 3.A code repository that is not on your local computer
 
 10. - 1.push, fetch, pull
 11. - 1.git fetch and then git merge
