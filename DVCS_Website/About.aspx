@@ -3,5 +3,5 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3> Description Page </h3>
-    <p>This page will contain description about DVCS Exercise</p>
+    <p>This page will contain description about DVCS Exercise.</p>
 </asp:Content>
