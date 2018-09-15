@@ -17,17 +17,23 @@ Short Answer & Multiple Choice
 3. Respository
 4. Fulscreen, Zoomed In, Zoomed out and Default
 5. Remote repository, Ignored Files
-6Ans. 3.A code repository that is not on your local computer
-
-10. - 1.push, fetch, pull
-11. - 1.git fetch and then git merge
-12. - 4.git init
-13. - 2.git add
-14. - 2.Staging files for a commit means to identify files that
+6. A code repository that is not on your local computer
+7. A code repository that is on your local computer
+8. Origin
+9. Cloning
+10. push, fetch, pull
+11. git fetch and then git merge
+12. git init
+13. git add
+14. Staging files for a commit means to identify files that
 may be new, modified, or deleted and marking those as being ready to commit.
-15. - 1.git commit -m "Commit message"
-16. - 2. Prepare files for being added (tracked) in the
+15. git commit -m "Commit message"
+16. Prepare files for being added (tracked) in the
 repository.
+
+
+
+
 
 
 
